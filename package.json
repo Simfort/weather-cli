@@ -17,8 +17,9 @@
   ],
   "author": "David Lemonjava",
   "license": "ISC",
-  "homepage": "",
-  "repository": {},
+  "repository": {
+    "github":"https://github.com/Simfort/weather-cli"
+  },
   "bugs": {
     "email": "lemondzavadavid265@gmail.com"
   },
